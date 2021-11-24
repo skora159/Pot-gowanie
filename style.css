@@ -1,0 +1,87 @@
+body {
+    background-color: aquamarine;
+    font-family: sans-serif;
+    display: flex;
+}
+
+input {
+    background-color: bisque;
+    font-size: 25px;
+    width: 100px;
+
+}
+
+#box1 {
+    margin-top: 50px;
+    margin-left: 35px;
+
+}
+
+#box2 {
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+p {
+    margin-left: 175px;
+    font-size: 40px;
+}
+
+button {
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+.line {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 2px;
+    height: 500px;
+    background-color: black;
+}
+
+
+
+#box3 {
+    margin-top: 50px;
+    margin-left: 45px;
+
+}
+
+a {
+    width: 80px;
+    font-size: 20px;
+}
+
+#box4 {
+    margin-left: 69px;
+    margin-top: 10px;
+}
+
+#box5 {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+#box6 {
+    margin-top: 45px;
+    margin-left: 90px;
+}
+
+#box7 {
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+#box8 {
+    margin-top: 10px;
+    margin-left: 90px;
+}
+
+#box9 {
+    margin-top: 10px;
+}
+
+p.trojkat {
+    margin-left: 60px;
+}
